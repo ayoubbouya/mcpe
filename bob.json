@@ -1,0 +1,128 @@
+[
+  {
+    "index": 1,
+    "name_skin": "Construction Worker Builder Bob Bob The Builder Classic Model",
+    "skin_url": "https://laby.net/texture/download/11f3b1708833e6ee2e8f3320a3bc70c6.png",
+    "view_skin": "https://skin.laby.net/api/render/skin/11f3b1708833e6ee2e8f3320a3bc70c6.webp?shadow=true"
+  },
+  {
+    "index": 2,
+    "name_skin": "Bob The Builder Bob",
+    "skin_url": "https://laby.net/texture/download/14f3f42a09f95978e8dd3b8454fb6530.png",
+    "view_skin": "https://skin.laby.net/api/render/skin/14f3f42a09f95978e8dd3b8454fb6530.webp?shadow=true"
+  },
+  {
+    "index": 3,
+    "name_skin": "White Bob",
+    "skin_url": "https://laby.net/texture/download/918d9635962ad3f83ceeb2ee84c5033f.png",
+    "view_skin": "https://skin.laby.net/api/render/skin/918d9635962ad3f83ceeb2ee84c5033f.webp?shadow=true"
+  },
+  {
+    "index": 4,
+    "name_skin": "Character Bob",
+    "skin_url": "https://laby.net/texture/download/f5477c25ae15029b72ae1eb269769b91.png",
+    "view_skin": "https://skin.laby.net/api/render/skin/f5477c25ae15029b72ae1eb269769b91.webp?shadow=true"
+  },
+  {
+    "index": 5,
+    "name_skin": "Bob The Builder Buildmaster Build Bob Constructor",
+    "skin_url": "https://laby.net/texture/download/1a2f03fa1572fb6e3c11160dc818b690.png",
+    "view_skin": "https://skin.laby.net/api/render/skin/1a2f03fa1572fb6e3c11160dc818b690.webp?shadow=true"
+  },
+  {
+    "index": 6,
+    "name_skin": "Bob The Builder Bob Constructor Builder Buildmaster",
+    "skin_url": "https://laby.net/texture/download/6e21831f5ef5b4ea5a88fe84adddfc70.png",
+    "view_skin": "https://skin.laby.net/api/render/skin/6e21831f5ef5b4ea5a88fe84adddfc70.webp?shadow=true"
+  },
+  {
+    "index": 7,
+    "name_skin": "Bob Flowers Hat",
+    "skin_url": "https://laby.net/texture/download/4bcb52f8f35cbfb15d1af8982fcb8e09.png",
+    "view_skin": "https://skin.laby.net/api/render/skin/4bcb52f8f35cbfb15d1af8982fcb8e09.webp?shadow=true"
+  },
+  {
+    "index": 8,
+    "name_skin": "Bob The Builder Builder Builder Hat",
+    "skin_url": "https://laby.net/texture/download/f2fdf0e3fe750559e13682ae6b66814b.png",
+    "view_skin": "https://skin.laby.net/api/render/skin/f2fdf0e3fe750559e13682ae6b66814b.webp?shadow=true"
+  },
+  {
+    "index": 9,
+    "name_skin": "Bob Frog Hat Froggy Hat",
+    "skin_url": "https://laby.net/texture/download/ef9a1e847051a43ce36f2278ee3487ae.png",
+    "view_skin": "https://skin.laby.net/api/render/skin/ef9a1e847051a43ce36f2278ee3487ae.webp?shadow=true"
+  },
+  {
+    "index": 10,
+    "name_skin": "Bob Blue And White",
+    "skin_url": "https://laby.net/texture/download/60a2d1e76b9a4e875d09d5f6252e5d9d.png",
+    "view_skin": "https://skin.laby.net/api/render/skin/60a2d1e76b9a4e875d09d5f6252e5d9d.webp?shadow=true"
+  },
+  {
+    "index": 11,
+    "name_skin": "Builder Constructor Bob Buildmaster Bob The Buildmaster",
+    "skin_url": "https://laby.net/texture/download/2a6652c6d6f99e491d5b902e499d6659.png",
+    "view_skin": "https://skin.laby.net/api/render/skin/2a6652c6d6f99e491d5b902e499d6659.webp?shadow=true"
+  },
+  {
+    "index": 12,
+    "name_skin": "Bob",
+    "skin_url": "https://laby.net/texture/download/a816e99f69bae61878fe279883cf5870.png",
+    "view_skin": "https://skin.laby.net/api/render/skin/a816e99f69bae61878fe279883cf5870.webp?shadow=true"
+  },
+  {
+    "index": 13,
+    "name_skin": "Bob",
+    "skin_url": "https://laby.net/texture/download/9fe4fa75df3f91acc30f480097c9e924.png",
+    "view_skin": "https://skin.laby.net/api/render/skin/9fe4fa75df3f91acc30f480097c9e924.webp?shadow=true"
+  },
+  {
+    "index": 14,
+    "name_skin": "Bob The Builder Bob Builder Buildmaster Constructor",
+    "skin_url": "https://laby.net/texture/download/2c0c7bb2fff7a4d6403bc01108a46632.png",
+    "view_skin": "https://skin.laby.net/api/render/skin/2c0c7bb2fff7a4d6403bc01108a46632.webp?shadow=true"
+  },
+  {
+    "index": 15,
+    "name_skin": "Bob Bob The Builder Constructor Buildmaster Builder",
+    "skin_url": "https://laby.net/texture/download/49e8724970b7abc44bb91a3c6cfa15c6.png",
+    "view_skin": "https://skin.laby.net/api/render/skin/49e8724970b7abc44bb91a3c6cfa15c6.webp?shadow=true"
+  },
+  {
+    "index": 16,
+    "name_skin": "Bob Bob The Builder Buildmaster Constructor Builder",
+    "skin_url": "https://laby.net/texture/download/a199b19ae09f0c9ef4b8c1cbc33075b4.png",
+    "view_skin": "https://skin.laby.net/api/render/skin/a199b19ae09f0c9ef4b8c1cbc33075b4.webp?shadow=true"
+  },
+  {
+    "index": 17,
+    "name_skin": "Bob The Builder Buildmaster Constructor Build Builder",
+    "skin_url": "https://laby.net/texture/download/795dd5758fdf24bac6e6a75248ff63d1.png",
+    "view_skin": "https://skin.laby.net/api/render/skin/795dd5758fdf24bac6e6a75248ff63d1.webp?shadow=true"
+  },
+  {
+    "index": 18,
+    "name_skin": "Bob The Builder Builder Bob Constructor",
+    "skin_url": "https://laby.net/texture/download/b000e7c22e8153131b648dc7d790b9a4.png",
+    "view_skin": "https://skin.laby.net/api/render/skin/b000e7c22e8153131b648dc7d790b9a4.webp?shadow=true"
+  },
+  {
+    "index": 19,
+    "name_skin": "Constructor Bob Builder Buildmaster Bob The Builder",
+    "skin_url": "https://laby.net/texture/download/f6774ffc89db9c7346ce341923bf0349.png",
+    "view_skin": "https://skin.laby.net/api/render/skin/f6774ffc89db9c7346ce341923bf0349.webp?shadow=true"
+  },
+  {
+    "index": 20,
+    "name_skin": "Builder Bob Bob The Builder Buildmaster Constructor",
+    "skin_url": "https://laby.net/texture/download/64d7a91fb96ac80da58ac8380d1f0bed.png",
+    "view_skin": "https://skin.laby.net/api/render/skin/64d7a91fb96ac80da58ac8380d1f0bed.webp?shadow=true"
+  },
+  {
+    "index": 21,
+    "name_skin": "Bob Bob The Builder Constructor Builder Buildmaster",
+    "skin_url": "https://laby.net/texture/download/f2b274c31d018a15b5693f439157a313.png",
+    "view_skin": "https://skin.laby.net/api/render/skin/f2b274c31d018a15b5693f439157a313.webp?shadow=true"
+  }
+]

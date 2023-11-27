@@ -1,0 +1,20 @@
+[
+  {
+    "index": 1,
+    "name_skin": "Classic Model Good A B C",
+    "skin_url": "https://laby.net/texture/download/a7fcecc2b4c65d7d9f66c986f6e024c0.png",
+    "view_skin": "https://skin.laby.net/api/render/skin/a7fcecc2b4c65d7d9f66c986f6e024c0.webp?shadow=true"
+  },
+  {
+    "index": 2,
+    "name_skin": "Meme The Rock Dwayne Johnson Mma Fast And Furious",
+    "skin_url": "https://laby.net/texture/download/3eceed8ca9861cfe52bcad47a59f4641.png",
+    "view_skin": "https://skin.laby.net/api/render/skin/3eceed8ca9861cfe52bcad47a59f4641.webp?shadow=true"
+  },
+  {
+    "index": 3,
+    "name_skin": "King Gang Hello Pro Noob",
+    "skin_url": "https://laby.net/texture/download/3e830ff903d1d803ef0c66a6428e6370.png",
+    "view_skin": "https://skin.laby.net/api/render/skin/3e830ff903d1d803ef0c66a6428e6370.webp?shadow=true"
+  }
+]
